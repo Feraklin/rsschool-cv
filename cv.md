@@ -8,9 +8,9 @@ Kanstantsin Naumenka
 
 ### 2. Contact Info
 
-Email: [feraklin@ya.ru](mailto:feraklin@ya.ru)
-Phone: [+375 (44) 769-21-68](tel:+375447692168)
-Telegram: [@feraklin](https://t.me/feraklin)
+- Email: [feraklin@ya.ru](mailto:feraklin@ya.ru)
+- Phone: [+375 (44) 769-21-68](tel:+375447692168)
+- Telegram: [@feraklin](https://t.me/feraklin)
 
 ---
 
