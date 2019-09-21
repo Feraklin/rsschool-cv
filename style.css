@@ -4,6 +4,11 @@ body {
     font-family: sans-serif;
 }
 
+.photo {
+    float: right;
+    height: 300px;
+}
+
 hr {
     background-color: lightgray;
     height: 2px;
