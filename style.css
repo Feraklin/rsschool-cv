@@ -4,16 +4,16 @@ body {
   font-family: sans-serif;
 }
 
-.photo {
-  float: right;
-}
-
-hr {
-  background-color: lightgray;
-  height: 2px;
-}
-
 .wrapper {
   max-width: 1024px;
   margin: 0 auto;
+}
+
+hr {
+  height: 2px;
+  background-color: lightgray;
+}
+
+.photo {
+  float: right;
 }
