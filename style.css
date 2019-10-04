@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+hr {
+  height: 2px;
+  background-color: lightgray;
+}
+
+.photo {
+  float: right;
+}
